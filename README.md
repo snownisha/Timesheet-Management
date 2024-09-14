@@ -10,15 +10,25 @@ The application includes a basic login system where the username is set to user 
 
 ## Time Validation:
 If the exit time entered is earlier than the entry time, the system will display an error message: "Exit time cannot be earlier than entry time."
+<img width="227" alt="image" src="https://github.com/user-attachments/assets/dc2aee88-6e8c-4af1-b2fb-1dc7933dc617">
+
 
 ## Consistent Month Entries:
 The application ensures that all time entries are from the same month. Navigation to other months is blocked to maintain consistency.
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/7d3a3ee0-0046-43c5-b581-830162124e7d">
+
 
 ## Edit Functionality:
 The exit button allows users to select and edit the existing row, enabling modifications to the time entries as needed.
+<img width="301" alt="image" src="https://github.com/user-attachments/assets/4a9387b2-9854-4e6f-abac-6c7b608e2e1d">
+
 
 ## CSV File Storage:
 All timesheet data, including entry and exit times is saved to a CSV file for record-keeping and further analysis.
+<img width="271" alt="image" src="https://github.com/user-attachments/assets/b084e292-59ea-42ff-9b30-8f4057a19ff4">
+
 
 ## Daily Total Hours Calculation:
 The application continuously calculates the total working hours for each day and updates them as entries are made.
+<img width="136" alt="image" src="https://github.com/user-attachments/assets/f1d1c397-2b29-405d-acb8-a7e4f24baee9">
+
