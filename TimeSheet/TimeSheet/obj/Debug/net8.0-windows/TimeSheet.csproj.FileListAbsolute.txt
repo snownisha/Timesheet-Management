@@ -1,0 +1,17 @@
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\bin\Debug\net8.0-windows\TimeSheet.exe
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\bin\Debug\net8.0-windows\TimeSheet.deps.json
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\bin\Debug\net8.0-windows\TimeSheet.runtimeconfig.json
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\bin\Debug\net8.0-windows\TimeSheet.dll
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\bin\Debug\net8.0-windows\TimeSheet.pdb
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\obj\Debug\net8.0-windows\TimeSheet.Form1.resources
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\obj\Debug\net8.0-windows\TimeSheet.csproj.GenerateResource.cache
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\obj\Debug\net8.0-windows\TimeSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\obj\Debug\net8.0-windows\TimeSheet.AssemblyInfoInputs.cache
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\obj\Debug\net8.0-windows\TimeSheet.AssemblyInfo.cs
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\obj\Debug\net8.0-windows\TimeSheet.csproj.CoreCompileInputs.cache
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\obj\Debug\net8.0-windows\TimeSheet.dll
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\obj\Debug\net8.0-windows\refint\TimeSheet.dll
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\obj\Debug\net8.0-windows\TimeSheet.pdb
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\obj\Debug\net8.0-windows\TimeSheet.genruntimeconfig.cache
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\obj\Debug\net8.0-windows\ref\TimeSheet.dll
+C:\Users\snown\source\repos\TimeSheet\TimeSheet\obj\Debug\net8.0-windows\TimeSheet.Properties.Resources.resources
